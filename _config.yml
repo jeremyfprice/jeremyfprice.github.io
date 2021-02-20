@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Jeremy F. Price, PhD"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "jfp.png"
+  bio              : "Assistant Professor of Technology, Innovation, and Pedagogy in Urban Education"
   location         : "Indianapolis, IN"
-  employer         :
+  employer         : IU School of Education-Indianapolis at IUPUI
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
