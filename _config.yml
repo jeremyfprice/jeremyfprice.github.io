@@ -85,6 +85,7 @@ author:
   bio              : "Assistant Professor of Technology, Innovation, and Pedagogy in Urban Education"
   location         : "Indianapolis, IN"
   employer         : IU School of Education at IUPUI
+  orcid            : "https://orcid.org/0000-0002-6506-3526"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -102,14 +103,13 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "jeremyfprice"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "dr_jfprice"
   vine             :
   weibo            :
   xing             :
