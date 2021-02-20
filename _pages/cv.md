@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Curriculum and Instruction-STEM Education, Lynch School of Education at Boston College, 2012
+* EdM in Technology in Education, Harvard Graduate School of Education, 2002
+* Postbaccalaureate in Premedicine, Brandeis University, 1996
+* BA in Cultural Anthropology, Brandeis University, 1995
+
+Academic Appointments
+======
+* Assistant Professor of Technology, Innovation, and Pedagogy in Urban Education, Indiana University School of Education-Indianapolis at IUPUI, 2016-
+* Assistant Professor of Teacher Education, Fairmont State University School of Education, 2013-2016
+* Postdoctoral Scholar, Lawrence Hall of Science/University of California-Berkeley, 2012-2013
 
 Work experience
 ======
