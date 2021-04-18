@@ -13,10 +13,15 @@ Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy 
  * fostering community-engaged educational systems with technology and
  * disrupting and dismantling the threats of white nationalism and white supremacy in educational systems.
 
-![Scholarly Overview Map](images/overview-map.png)
+## Ongoing Projects
 
-![Digital Education Hub](images/deh.png) ![Community Studies of Antisemitism In Schools](images/csais.png)
-
-<p style="text-align: center">
-  <img src="images/deh.png" alt="Digital Education Hub" /> <img src="images/csais.png" alt="Community Studies of Antisemitism in Schools" />
-</p>
+<table width="100%">
+  <tr>
+    <td style="text-align: center;" width="50%">
+      <a href="https://digitaleducationhub.org"><img src="images/deh.png" alt="Digital Education Hub" /></a>
+    </td>
+    <td style="text-align: center;" width="50%">
+      <a href="https://jeremyfprice.github.io/csais/"><img src="images/csais.png" alt="Community Studies of Antisemitism in Schools" /></a>
+    </td>
+  </tr>
+</table>
