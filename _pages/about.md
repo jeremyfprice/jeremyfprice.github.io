@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Jeremy F Price, PhD"
+excerpt: "About Jeremy Price"
 author_profile: true
 redirect_from:
   - /about/
@@ -15,13 +15,15 @@ Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy 
 
 ## Ongoing Projects
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td style="text-align: center;" width="50%">
-      <a href="https://digitaleducationhub.org"><img src="images/deh.png" alt="Digital Education Hub" /></a>
+      <a href="https://digitaleducationhub.org"><img src="images/deh.png" alt="Digital Education Hub" /></a><br />
+      <a href="https://digitaleducationhub.org">Digital Education Hub</a>
     </td>
     <td style="text-align: center;" width="50%">
-      <a href="https://jeremyfprice.github.io/csais/"><img src="images/csais.png" alt="Community Studies of Antisemitism in Schools" /></a>
+      <a href="https://jeremyfprice.github.io/csais/"><img src="images/csais.png" alt="Community Studies of Antisemitism in Schools" /></a><br />
+      <a href="https://jeremyfprice.github.io/csais/">Community Studies of Antisemitism in Schools</a>
     </td>
   </tr>
 </table>
