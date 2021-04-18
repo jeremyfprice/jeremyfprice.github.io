@@ -16,15 +16,13 @@ Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy 
 ![Scholarly Work Map](images/overview-map.png)
 ## Ongoing Projects
 
-<table width="100%" border="0">
-  <tr>
-    <td style="text-align: center;" width="50%">
+<div style="width: 100%">
+  <div style="text-align: center; float: left; width: 50%;" width="50%">
       <a href="https://digitaleducationhub.org"><img src="images/deh.png" alt="Digital Education Hub" /></a><br />
       <a href="https://digitaleducationhub.org">Digital Education Hub</a>
-    </td>
-    <td style="text-align: center;" width="50%">
+    </div>
+    <div style="text-align: center; float: right; width: 50%">
       <a href="https://jeremyfprice.github.io/csais/"><img src="images/csais.png" alt="Community Studies of Antisemitism in Schools" /></a><br />
       <a href="https://jeremyfprice.github.io/csais/">Community Studies of Antisemitism in Schools</a>
-    </td>
-  </tr>
-</table>
+    </div>
+</div>
