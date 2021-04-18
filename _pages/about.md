@@ -13,6 +13,7 @@ Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy 
  * fostering community-engaged educational systems with technology and
  * disrupting and dismantling the threats of white nationalism and white supremacy in educational systems.
 
+![Scholarly Work Map](images/overview-map.png)
 ## Ongoing Projects
 
 <table width="100%" border="0">
