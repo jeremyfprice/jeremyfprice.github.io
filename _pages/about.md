@@ -17,6 +17,6 @@ Dr. Jeremy Price is Assistant Professor of Technology, Innovation, and Pedagogy 
 
 <p style="text-align: center;">
 
-![Digital Education Hub](images/deh.png) ![Community Studies of Antisemitism in Schools](images/csais.png)
+![Digital Education Hub](images/deh.png)
 
 </p>
